@@ -1,6 +1,13 @@
 # DSA
 Data Structure and Algorithms
 
+1. A computer program is a collection of instructions to perform a specific task.
+2. For this, a computer program may need to store data, retrieve data, and perform computations on the data.
+3. A data structure is a named location that can be used to store and organize data.
+4. An algorithm is a colliction of steps to solve a particular problems.
+5. Learning data structures and algorithms allow us to write efficient and optimized computer programs.
+
+
 ## DSA Introduction
 
 1. [What is an algorithm ?]()
