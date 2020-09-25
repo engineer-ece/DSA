@@ -63,39 +63,39 @@ Data Structure and Algorithms
 7. [Breadth-first Search]()
 8. [Bellman Ford's Algorithm]()
 
-## Sorting and Searching Algorithms
+## Sort()ing and Searching Algorithms
 
-1. Bubble sort
-2. Selection Sort
-3. Insertion Sort
-4. Merge Sort
-5. Quick Sort
-6. Counting Sort
-7. Radix Sort
-8. Bucket Sort
-9. Heap Sort
-10. Shell Sort
-11. Linear Search
-12. Binary Search
+1. [Bubble sort]()
+2. [Selection Sort]()
+3. [Insertion Sort]()
+4. [Merge Sort]()
+5. [Quick Sort]()
+6. [Counting Sort]()
+7. [Radix Sort]()
+8. [Bucket Sort]()
+9. [Heap Sort]()
+10. [Shell Sort]()
+11. [Linear Search]()
+12. [Binary Search]()
 
 ## Greedy Algorithms
 
-1. Greedy Algorithm
-2. Ford-Fulkerson Algorithm
-3. Dijkstra's Algorithm
-4. Kruskal's Algorithm
-5. Prim's Algorithm
-6. Huffman code
+1. [Greedy Algorithm]()
+2. [Ford-Fulkerson Algorithm]()
+3. [Dijkstra's Algorithm]()
+4. [Kruskal's Algorithm]()
+5. [Prim's Algorithm]()
+6. [Huffman code]()
 
 ## Dynamic Programming
 
-1. Dynamic Programming
-2. Floyd Warshall Algorithm
-3. Longest Common Subsequences
+1. [Dynamic Programming]()
+2. [Floyd Warshall Algorithm]()
+3. [Longest Common Subsequences]()
 
 ## Other Algorithms
 
-1. Backtracking 
-2. Rabin-Karp
-3. Trie
+1. [Backtracking]() 
+2. [Rabin-Karp]()
+3. [Trie]()
 
