@@ -70,7 +70,7 @@ Data Structure and Algorithms
 7. [Breadth-first Search]()
 8. [Bellman Ford's Algorithm]()
 
-## Sort()ing and Searching Algorithms
+## Sorting and Searching Algorithms
 
 1. [Bubble sort]()
 2. [Selection Sort]()
