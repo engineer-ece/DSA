@@ -10,7 +10,7 @@ Data Structure and Algorithms
 
 ## DSA Introduction
 
-1. [What is an algorithm ?]()
+1. [What is an algorithm ?](https://github.com/engineer-ece/DSA/blob/master/pages/1/1.md)
 2. [Why learn algorithm ?]()
 3. [Asymptotic Notations]()
 4. [Master Theorem]()
