@@ -11,10 +11,10 @@ Data Structure and Algorithms
 ## DSA Introduction
 
 1. [What is an algorithm ?](https://github.com/engineer-ece/DSA/blob/master/pages/1/1.md)
-2. [Why learn algorithm ?]()
-3. [Asymptotic Notations]()
-4. [Master Theorem]()
-5. [Divide and Conquer Algorithm]()
+2. [Why learn algorithm ?](https://github.com/engineer-ece/DSA/blob/master/pages/1/2.md)
+3. [Asymptotic Notations](https://github.com/engineer-ece/DSA/blob/master/pages/1/3.md)
+4. [Master Theorem](https://github.com/engineer-ece/DSA/blob/master/pages/1/4.md)
+5. [Divide and Conquer Algorithm](https://github.com/engineer-ece/DSA/blob/master/pages/1/5.md)
 
 ## Data Structure Basic
 
