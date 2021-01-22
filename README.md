@@ -1,4 +1,4 @@
-# [click](https://engineer-ece.github.io/Home)
+# [Home](https://engineer-ece.github.io/Home)
 # DSA
 Data Structure and Algorithms
 
