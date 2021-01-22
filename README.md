@@ -105,5 +105,5 @@ Data Structure and Algorithms
 1. [Backtracking]() 
 2. [Rabin-Karp]()
 3. [Trie]()
-4. [Knuth-Morris-Pratt]()
+4. [Knuth-Morris-Pratt-(KMP)]()
 
